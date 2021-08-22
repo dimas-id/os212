@@ -1,2 +1,2 @@
 # os212
-Operating Systems 2021-2 (Odd Semester 2021/2022)
+Dimas Ilham's Operating System 2021-2 Repository.
