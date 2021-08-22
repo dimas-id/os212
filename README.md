@@ -1,2 +1,2 @@
 # os212
-Dimas Ilham's Operating System 2021-2 Repository.
+Welcome to my Operating System 2021-2 Repository (^-^)
