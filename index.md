@@ -1,5 +1,7 @@
 <!DOCTYPE html>
+
 <html>
+	
 <head>
     <title>OS212 - Dimas' Page</title>
 </head>
@@ -18,7 +20,7 @@
         
         <p>- working on the contents, just wait for it (^-^) -</p>
 	<p>Weekly Log :</p>
-	<a href = "https://dimas-id.github.io/os212/TXT/mylog.txt">Weekly OS212 Log</a>
+	<a href = "https://raw.githubusercontent.com/dimas-id/os212/master/TXT/mylog.txt">Weekly OS212 Log</a>
     
     <hr>
     
