@@ -18,7 +18,7 @@
         
         <p>- working on the contents, just wait for it (^-^) -</p>
 	<p>Weekly Log :</p>
-	<a href = "https://github.com/dimas-id/os212/blob/master/TXT/mylog.txt">Weekly OS212 Log</a>
+	<a href = "https://dimas-id.github.io/os212/TXT/mylog.txt">Weekly OS212 Log</a>
     
     <hr>
     
