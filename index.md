@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html lang="en-US">
-	
 <head>
     <title>OS212 - Dimas' Page</title>
 </head>
