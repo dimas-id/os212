@@ -9,9 +9,12 @@ ZCZC W00  90 L81 Listening to my "on repeat" spotify playlist while doing W00 as
 ZCZC W00  20 L13 Learning about html page
 ZCZC W00  40 L13 Learning about github page
 ZCZC W00  60 L13 Trying to deploy github page
-ZCZC W00  20 L03 Read some github docs
+ZCZC W00  20 L04 Read some github pages docs
 ZCZC W00  40 L13 Finally deploying my github page, but there's still error in it
-
+ZCZC W00  40 L04 Learning more about github pages 
+ZCZC W00  30 L13 Learning about markdown for completing the github page
+ZCZC W00  60 L13 Finally figured out the previous problem of my github page, and finished my own creation of github pages using markdown
+ZCZC W00  90 L13 Listening to my "on repeat" spotify playlist while learning and finishing the W00 assignment #03
 
 
 ##############################################
