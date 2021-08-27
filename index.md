@@ -1,8 +1,9 @@
 ## OS212 Github Page
 By : Dimas Ilham Danesamarruf
+(Github Account : [dimas-id](https://github.com/dimas-id))
 
 #### Hello!
-I'm Dimas Ilham Danesamarruf. But, just call me Dimas. I'm a Computer Science student at Universitas Indonesia.</p>
+I'm Dimas Ilham Danesamarruf. But, just call me Dimas. I'm a Computer Science student at Universitas Indonesia.
 
 ### Contents :
 
