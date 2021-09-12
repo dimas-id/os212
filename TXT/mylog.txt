@@ -45,3 +45,7 @@ ZCZC W01  10 L17 Learning about the assignment #7
 ZCZC W01  20 L17 Updating this log via vi on debian terminal
 ZCZC W01  60 L25 Trying some scripting problems given by Mr. Rahmat
 ZCZC W01  30 L32 Watching another video about regex and scripting
+ZCZC W01  30 L19 Studying on the textbook for the quiz
+ZCZC W01  30 L18 Learning and trying the advanced type of regex especially awk
+ZCZC W01  40 L25 Back on trying to solve the scripting problem given on SCELE by Mr. Rahmat
+ZCZC W01  20 L19 Studying more for the quiz
