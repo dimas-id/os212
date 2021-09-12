@@ -37,3 +37,9 @@ ZCZC W01  30 L14 Done completing the assignment #4
 ZCZC W01  20 L32 Watching the Basic Regex youtube video given by Mr. Rahmat
 ZCZC W01  40 L16 Updating github page by adding github os212 repo, log, and links.md links to the index.md or homepage
 ZCZC W01  30 L13 Trying to use vi
+ZCZC W01  30 L13 Learning some simple article about AWK, SCRIPTING, and bash
+ZCZC W01  20 L15 Doing configuration to the git by following the assignment #5 steps
+ZCZC W01  50 L87 Joining a simple sharing session managed by BEM Fasilkom
+ZCZC W01  10 L15 Done doing the assignment #5
+ZCZC W01  10 L17 Learning about the assignment #7
+ZCZC W01  20 L17 Updating this log via vi on debian terminal
