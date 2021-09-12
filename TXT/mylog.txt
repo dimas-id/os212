@@ -43,3 +43,4 @@ ZCZC W01  50 L87 Joining a simple sharing session managed by BEM Fasilkom
 ZCZC W01  10 L15 Done doing the assignment #5
 ZCZC W01  10 L17 Learning about the assignment #7
 ZCZC W01  20 L17 Updating this log via vi on debian terminal
+ZCZC W01  60 L25 Trying some scripting problems given by Mr. Rahmat
