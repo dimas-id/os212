@@ -53,3 +53,6 @@ ZCZC W02  20 L05 Completing W01 quiz 1 and quiz 2
 ZCZC W02  90 L02 Synchronous session w/ Mr. Rahmat
 ZCZC W02  20 L09 Creating mypubkey.txt and updating mylog.txt
 ZCZC W02  40 L02 Synchronous session w/ Mr. Rahmat
+ZCZC W02  30 L09 Creating myrank.txt and review peer links
+ZCZC W02  20 L09 Watching the youtube video about cyber security given by Mr. Rahmat (but unfinished)
+ZCZC W02  40 L32 Searching and also watching some video that relevant to this week material and then put the video link into my weekly links
