@@ -51,8 +51,17 @@ ZCZC W01  40 L25 Back on trying to solve the scripting problem given on SCELE by
 ZCZC W01  20 L05 Studying more for the quiz
 ZCZC W02  20 L05 Completing W01 quiz 1 and quiz 2
 ZCZC W02  90 L02 Synchronous session w/ Mr. Rahmat
-ZCZC W02  20 L09 Creating mypubkey.txt and updating mylog.txt
+ZCZC W02  05 L14 Creating mypubkey.txt and updating mylog.txt
+ZCZC W02  05 L16 Importing OS public key
+ZCZC W02  05 L15 Listing all the GPG keys i have
+ZCZC W02  10 L17 Signing the OS public key
+ZCZC W02  15 L18 Exporting my public key and then creating mypubkey.txt
 ZCZC W02  40 L02 Synchronous session w/ Mr. Rahmat
-ZCZC W02  30 L09 Creating myrank.txt and review peer links
-ZCZC W02  20 L09 Watching the youtube video about cyber security given by Mr. Rahmat (but unfinished)
-ZCZC W02  40 L32 Searching and also watching some video that relevant to this week material and then put the video link into my weekly links
+ZCZC W02  30 L20 Creating myrank.txt and review peer links
+ZCZC W02  20 L13 Watching the first youtube video about cyber security given by Mr. Rahmat (but unfinished)
+ZCZC W02  40 L32 Searching and also watching some video that relevant to this week material
+ZCZC W02  10 L19 Updating my bookmark links on links.md
+ZCZC W02  60 L13 Continue to watch the first cyber security video
+ZCZC W02  15 L64 Helping friends to solve some VM problem
+ZCZC W02  60 L13 Finishing the first and second video about cyber security
+ZCZC W02  30 L11 Studying chapter 16 and 17 for the W03 quiz
