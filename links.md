@@ -21,3 +21,7 @@ It REALLY helps me to understand basic of Vi/Vim commands.
 ### Week 2
 [Cyber Security in 7 Minutes](https://youtu.be/inWWhr5tnEA)\
 It helps me understand the concept of cyber security in a short period of time.
+
+### Week 3
+[Crash Course Computer Science: Files & File Systems](https://youtu.be/KN8YgJnShPM)\
+Some introductions to files and file systems in a short video, it helps me the basics of files and file systems.
