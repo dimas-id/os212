@@ -65,3 +65,11 @@ ZCZC W02  60 L13 Continue to watch the first cyber security video
 ZCZC W02  15 L64 Helping friends to solve some VM problem
 ZCZC W02  60 L13 Finishing the first and second video about cyber security
 ZCZC W02  30 L11 Studying chapter 16 and 17 for the W03 quiz
+ZCZC W03  30 L05 Preparing and doing the quiz 1 and 2
+ZCZC W03  90 L02 Synchronous session w/ Mr. Rahmat
+ZCZC W03  30 L14 Checking and updating ".bash_aliases" file
+ZCZC W03  60 L15 Doing the create an extra virtual disk steps on OS website
+ZCZC W03  30 L32 Watching some file systems videos on youtube
+ZCZC W03  10 L16 Updating my bookmark links on github page
+ZCZC W03  20 L17 Checking my peer links and also reviewing it
+ZCZC W03  15 L18 First time updating my log on this week
