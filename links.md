@@ -25,3 +25,11 @@ It helps me understand the concept of cyber security in a short period of time.
 ### Week 3
 [Crash Course Computer Science: Files & File Systems](https://youtu.be/KN8YgJnShPM)\
 Some introductions to files and file systems in a short video, it helps me the basics of files and file systems.
+
+
+### Week 4
+[Main Memory Management - Intro](https://youtu.be/Ag4p5yCqte8)\
+Explaining the basics of main memory management
+
+[Main Memory Management - Paging](https://youtu.be/oUbGhfJo5-c)\
+Explaining about the paging process in main memory management
