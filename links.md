@@ -33,3 +33,10 @@ Explaining the basics of main memory management
 
 [Main Memory Management - Paging](https://youtu.be/oUbGhfJo5-c)\
 Explaining about the paging process in main memory management
+
+### Week 5
+[Virtual Memory - Intro](https://youtu.be/qlH4-oHnBb8)\
+Introduction about virtual memory.
+
+[Virtual Memory - How Does It Works?](https://youtu.be/59rEMnKWoS4)\
+Explaining how virtual memory works.
