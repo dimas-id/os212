@@ -102,3 +102,4 @@ ZCZC W05  50 L02 Synchronous session w/ Mr. Rahmat
 ZCZC W05  30 L17 Reviewing my peer links and updating myrank.txt
 ZCZC W05  20 L18 Updating mylog.txt on the weekend
 ZCZC W05  20 L19 Submitting W05 assignment
+ZCZC W05  40 L11 Reading more about chapter 10, preparing for the weekly quiz
