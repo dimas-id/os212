@@ -40,3 +40,7 @@ Introduction about virtual memory.
 
 [Virtual Memory - How Does It Works?](https://youtu.be/59rEMnKWoS4)\
 Explaining how virtual memory works.
+
+### Week 6
+[Processes Playlist](https://youtube.com/playlist?list=PLBlnK6fEyqRgKl0MbI6kbI5ffNt7BF8Fn)\
+I learned a lot about processes through that playlist :D
