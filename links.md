@@ -44,3 +44,13 @@ Explaining how virtual memory works.
 ### Week 6
 [Processes Playlist](https://youtube.com/playlist?list=PLBlnK6fEyqRgKl0MbI6kbI5ffNt7BF8Fn)\
 I learned a lot about processes through that playlist :D
+
+[Intro to Threads](https://youtu.be/LOfGJcVnvAk)\
+This video give me a basic understanding for threads.
+
+[fork() and exec() Function](https://www.youtube.com/watch?v=IFEFVXvjiHY)\
+Hoping that it will help me for the weekly quiz :D
+
+### Week 7
+[Process Synchronization](https://youtu.be/ph2awKa8r5Y)\
+I learn about synchronization from that video :D
