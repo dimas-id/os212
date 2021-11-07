@@ -112,3 +112,14 @@ ZCZC W06  20 L15 Choosing some videos to be put in my bookmark links then updati
 ZCZC W06  30 L17 Review my peer links
 ZCZC W06  15 L18 Updating mylog.txt via vi
 ZCZC W06  20 L19 Submitting my assignments
+ZCZC W07  50 L05 Preparing and doing the weekly quiz as usual
+ZCZC W07  40 L02 Synchronous class w/ Mr. Anwar
+ZCZC W07  30 L14 Doing the Assignment 4
+ZCZC W07  80 L01 Studying the W07 study materials that given by Mr. Anwar
+ZCZC W07  40 L32 Watching some youtube videos to be put on my bookmark links
+ZCZC W07  20 L15 Choosing some videos to be put in my bookmark links then updating links.md
+ZCZC W07  90 L02 Synchronous class w/ Mr. Anwar
+ZCZC W07  30 L17 Review my peer links
+ZCZC W07  15 L18 Updating mylog.txt
+ZCZC W07  20 L19 Submitting my assignments
+ZCZC W07  40 L11 Studying for weekly quiz
