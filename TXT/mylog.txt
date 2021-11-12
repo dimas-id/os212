@@ -135,3 +135,5 @@ ZCZC W08  30 L15 Doing the rest of the assignment 5
 ZCZC W08  20 L19 Updating mylog.txt via vi
 ZCZC W08  60 L11 Studying for the weekly quiz
 ZCZC W08  20 L20 Submitting W08 assignments
+ZCZC W08  30 L11 Studying more with the materials given by Mr. Rahmat
+ZCZC W08  40 L13 Trying to solve various problems from the previous exams that has been given on OS website
