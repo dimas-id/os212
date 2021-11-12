@@ -17,3 +17,6 @@ ZCZC W06 immanuelnadeak
 ZCZC W07 ivanphanderson
 ZCZC W07 jeremychr
 ZCZC W07 johaneschristian
+ZCZC W08 KenzieKA
+ZCZC W08 larry-pult
+ZCZC W08 lkram1
