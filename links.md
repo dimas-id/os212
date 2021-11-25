@@ -63,3 +63,7 @@ About scheduling and some of the scheduling algorithms. I learn a lot from here 
 [Mr. Anwar's Recordings: Disk and Mass Storage](https://www.youtube.com/watch?v=bADGwge8dk8&list=PLBXapj649rh_wlsQ3dEsma4wA6fiV3tY4)\
 [Linux Boot Process](https://www.youtube.com/watch?v=mHB0Z-HUauo)\
 I learn about this week material through the links that given by Mr. Anwar in the Announcement forum.
+
+### Week 10
+[Mr. Anwar's Recording: Intro to I/O Programming](https://youtu.be/j3OaRps-RAM)\
+It's from Mr. Anwar and I thought it's really helps me :D
