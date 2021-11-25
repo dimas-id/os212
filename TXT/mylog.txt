@@ -149,3 +149,14 @@ ZCZC W09  20 L18 Updating mylog.txt via vi
 ZCZC W09  40 L11 Studying for the weekly quiz
 ZCZC W09  20 L19 Submitting W09 assignments
 ZCZC W09  30 L11 Studying more for quiz with the materials given by Mr. Anwar
+ZCZC W10  50 L05 Preparing and doing the weekly quiz as usual
+ZCZC W10  60 L80 Asynchronous class : Watching the video given by Mr. Anwar
+ZCZC W10  30 L14 Doing the assignment 4
+ZCZC W10  40 L32 Watching some youtube videos to be put on my bookmark links
+ZCZC W10  30 L15 Choosing some videos to be put in my bookmark links then updating links.md
+ZCZC W10  90 L02 Synchronous class w/ Mr. Anwar
+ZCZC W10  20 L17 Reviewing my peer links
+ZCZC W10  20 L18 Updating mylog.txt via vi
+ZCZC W10  40 L11 Studying for the weekly quiz
+ZCZC W10  20 L19 Submitting W09 assignments
+ZCZC W10  30 L11 Studying more for quiz with the materials given by Mr. Anwar
